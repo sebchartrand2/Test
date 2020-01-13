@@ -22,7 +22,11 @@ public class Main {
 				
 				
 			System.out.print(inputString.charAt(i));
-		}
+
+			System.out.print(inputString.charAt(i));
+
+			System.out.print(inputString.charAt(i));
+}
 		
 //		Character.isDigit(inputString.charAt(index))
 //		Character.isLetter(inputString.charAt(index))
